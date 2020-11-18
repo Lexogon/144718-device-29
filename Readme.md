@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Влад Антоненко](https://up.htmlacademy.ru/htmlcss/29/user/144718).
-* Наставник: [Артем Матковский](https://github.com/artmtk).
+* Наставник: [Артем ](https://github.com/).
 
 ---
 
